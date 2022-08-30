@@ -10,10 +10,15 @@ int lops2()
 {
   if() 
     else
-  if()                  // don't confuse it is similar to else if though written in new line both eans same
+  if()                  // don't confuse it is similar to else if though written in new line both means same
     else
   if()
-    else// here this else will work like as  " default: "    in    " switch "   case, if no statement is true directly else executes
+    else
+    //OR
+  if()
+  else if()
+  else if()
+  else// here this else will work like as  " default: "    in    " switch "   case, if no statement is true directly else executes
     }
 loops nested()
 {
