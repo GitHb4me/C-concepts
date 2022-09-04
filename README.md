@@ -5,7 +5,7 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 ## Difference 
 
 
-                 compiled language                  |                  Interpreted Language
+                 compiled language                  |                  Interpreted Language or scripting language
                                                     |
                                                     |
                                                     |
