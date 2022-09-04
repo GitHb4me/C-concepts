@@ -7,8 +7,9 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 # Difference 
 
 -----------------------------------------------------------------------------------------------------------------------------
+
                  compiled language                  |                  Interpreted Language or scripting languag
-----------------------------------------------------|-------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
                                                     |
                                                     |
                                                     |
@@ -26,10 +27,10 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
                                                     |
 -------------------------------------------------------------------------------------------------------------------------------
 
-# Rare-use-Keywords                              # Frequently-used-Keywords
+# Rare-use-Keywords                              
                                                  
-const                                            char, int, double, auto, float, long, short
-goto                                             default, switch, case, else, if, break, continue, return, do, while, for, unsigned, void, signed
+const                                            
+goto                                             
 register
 restrict
 inline
@@ -41,3 +42,8 @@ union
 volatile
 static
 struct         
+
+# Frequently-used-Keywords
+
+char, int, double, auto, float, long, short
+default, switch, case, else, if, break, continue, return, do, while, for, unsigned, void, signed
