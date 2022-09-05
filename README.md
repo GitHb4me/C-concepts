@@ -59,4 +59,4 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
       
 
       
-  if divisor is   **SMALLER**    than dividend then   **' / '**   will return   **0**   as output and   **' % '**   will return   **DIVISOR**   itself      
+  if **_divisor_** is   **SMALLER**    than **_dividend_** then   **' / '**   will return   **0**   as output and   **' % '**   will return   **DIVISOR**   itself      
