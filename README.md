@@ -87,3 +87,7 @@ for more details link -
 range for loop link - 
 std functions list link -
 non std functions list - 
+
+
+- Main function is necessary. No program is possible without main function 
+- Main function cannot be  ' void '  must always return someting
