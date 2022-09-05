@@ -1,4 +1,5 @@
 # Important-Points-Summarised 
+
 language skills or proficiency as a developer
 List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt Discussion, Bonus Information 
 
@@ -45,3 +46,15 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 
 - 1 : char, int, double, auto, float, long, short
 - 2 : default, switch, case, else, if, break, continue, return, do, while, for, unsigned, void, signed
+
+## Note :-
+      |------------|
+      | 1 / 10 = 0 |
+      | 1 % 10 = 1 |
+      |------------| 
+       
+      |------------------------------------------------| 
+      | divisor / dividend    or    divisor % dividend |
+      |------------------------------------------------|
+      
+  if divisor is  **smaller**  than dividend then  **' / '** will return **0** as output and **' % '** will return **divisor** itself      
