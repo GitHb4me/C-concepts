@@ -48,13 +48,12 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 - 2 : default, switch, case, else, if, break, continue, return, do, while, for, unsigned, void, signed
 
 ## Note :-
-      |------------|
+      
       | 1 / 10 = 0 |
       | 1 % 10 = 1 |
       |------------| 
-       
-      |------------------------------------------------| 
+        
       | divisor / dividend    or    divisor % dividend |
       |------------------------------------------------|
       
-  if divisor is  **smaller**  than dividend then  **' / '** will return **0** as output and **' % '** will return **divisor** itself      
+  if divisor is  **SMALLER**  than dividend then  **' / '** will return **0** as output and **' % '** will return **DIVISOR** itself      
