@@ -72,3 +72,18 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
      for( initialization ; condition ; updation )
 
 **updation** can be pre or post unary operator ++i/i++  --i/i-- working will be same  
+
+
+
+' ' ' 
+
+         scanf("%placeholder",&value);  
+         printf("%placeholder",value);
+
+
+latest compiler works even if  ' & '  not placed before variable in scanf and if by mistake  ' & ' is placed before variable in printf 
+for more details link - 
+
+range for loop link - 
+std functions list link -
+non std functions list - 
