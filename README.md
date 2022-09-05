@@ -71,4 +71,4 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 
      for( initialization ; condition ; updation )
 
-**updation** can be pre or post unary operator ++i/i++  --i/i-- working will not affect 
+**updation** can be pre or post unary operator ++i/i++  --i/i-- working will be same  
