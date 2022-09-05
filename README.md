@@ -4,7 +4,7 @@ language skills or proficiency as a developer
 List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt Discussion, Bonus Information 
 
 
-'''
+' ' ' 
 
 ## Difference 
 
@@ -26,7 +26,7 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 |                                                   |                                                                         |
 | 
 
-'''
+
 
 ## Rare-use-Keywords                              
                                                  
@@ -51,13 +51,13 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
 
 ## Note :-
 
-      '''
+      ' ' '
       
        1 / 10 = 0 
        1 % 10 = 1 
  
        divisor / dividend    or    divisor % dividend 
       
-      '''
+
       
   if divisor is  **SMALLER**  than dividend then  **' / '** will return **0** as output and **' % '** will return **DIVISOR** itself      
