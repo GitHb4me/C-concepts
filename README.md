@@ -61,12 +61,14 @@ List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt 
       
   if **_divisor_** is   **SMALLER**    than **_dividend_** then   **' / '**   will return   **0**   as output and   **' % '**   will return   **DIVISOR**   itself 
 
+' ' '
+
+      examples :  2 % 3 = 2            4 / 45 = 0
+                  2 % 5 = 2            2 / 76 = 0
+
 ' ' ' 
-examples :  2 % 3 = 2            4 / 45 = 0
-            2 % 5 = 2            2 / 76 = 0
 
 
-' ' '             
-for( initialization ; condition ; updation )
+     for( initialization ; condition ; updation )
 
 **updation** can be pre or post unary operator ++i/i++  --i/i-- working will not affect 
