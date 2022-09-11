@@ -3,6 +3,8 @@
 // https://www.geeksforgeeks.org/fast-io-for-competitive-programming/
 // https://www.geeksforgeeks.org/speed-up-naive-algorithms-in-competitive-coding-in-c-cpp/
 // https://www.geeksforgeeks.org/basic-code-optimizations-in-c/
+// https://www.geeksforgeeks.org/writing-code-faster-during-competitive-programming-in-c/
+// https://www.geeksforgeeks.org/writing-code-faster-in-c-stl/
 #include <bits/stdc++.h>
 using namespace std;
 
