@@ -5,6 +5,11 @@
 // https://www.geeksforgeeks.org/basic-code-optimizations-in-c/
 // https://www.geeksforgeeks.org/writing-code-faster-during-competitive-programming-in-c/
 // https://www.geeksforgeeks.org/writing-code-faster-in-c-stl/
+// https://www.oreilly.com/library/view/optimized-c/9781491922057/ch01.html
+// https://www.quora.com/What-are-some-general-tips-for-speeding-up-a-C++-program
+//http://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html
+//https://www.thegeekstuff.com/2015/01/c-cpp-code-optimization/
+
 #include <bits/stdc++.h>
 using namespace std;
 
