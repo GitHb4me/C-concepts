@@ -12,3 +12,6 @@ int main(){
         std::cout<<s<<std::endl;
     }
     }  
+    
+    // break exits all nested loop if encountered once in case of ladder one loop exit for one break statement 
+// return exits full function if encountered once
