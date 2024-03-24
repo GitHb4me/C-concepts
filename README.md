@@ -4,7 +4,7 @@ language skills or proficiency as a developer
 List of Standard and Reference Books, Practice Forums, Refrence Websites, Doubt Discussion, Bonus Information 
 
 
-## Rare-use-Keywords                              
+## Imp-Keywords                              
                                                  
 1. const                                            
 2. goto                                             
