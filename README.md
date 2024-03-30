@@ -68,4 +68,3 @@ non std functions list -
 
 - Main function is necessary. No program is possible without main function in c/c++ but in java it's optional and only requires during execution of program
 - Main function cannot be  ' void ' in c/c++ it must always return someting
-- break statement exits all the nested loops for example in 4 nested looop if break is used in 2nd one then whole loop will exit after 2nd loop and control will never reach to 4th loop and if is used in 4th loop then after one full execution upto 4th loop control will comes ou of every nested loop.
